@@ -1,0 +1,648 @@
+PS C:\Users\fttatar\Desktop\selenium> python .\main.py
+
+Searching: calloc
+
+        LibName: not found
+
+Searching: CloseHandle
+
+        LibName: Kernel32.dll
+
+Searching: CompareStringA
+
+        LibName: Kernel32.dll
+
+Searching: CompareStringW
+
+        LibName: Kernel32.dll
+
+Searching: CreateEventA
+
+        LibName: Kernel32.dll
+
+Searching: CreateFileA
+
+        LibName: Kernel32.dll
+
+Searching: CreateRemoteThread
+
+        LibName: Kernel32.dll
+
+Searching: CreateServiceA
+
+        LibName: Advapi32.dll
+
+Searching: CreateToolhelp32Snapshot
+
+        LibName: Kernel32.dll
+
+Searching: DeleteCriticalSection
+
+        LibName: Kernel32.dll
+
+Searching: EnterCriticalSection
+
+        LibName: Kernel32.dll
+
+Searching: exit
+
+        LibName: not found
+
+Searching: ExitProcess
+
+        LibName: Kernel32.dll
+
+Searching: fclose
+
+        LibName: not found
+
+Searching: FindFirstFileA
+
+        LibName: Kernel32.dll
+
+Searching: FindResourceA
+
+        LibName: Kernel32.dll
+
+Searching: fopen
+
+        LibName: not found
+
+Searching: FormatMessageW
+
+        LibName: not found
+
+Searching: fread
+
+        LibName: not found
+
+Searching: free
+
+        LibName: not found
+
+Searching: FreeEnvironmentStringsA
+
+        LibName: Kernel32.dll
+
+Searching: FreeEnvironmentStringsW
+
+        LibName: Kernel32.dll
+
+Searching: FreeLibrary
+
+        LibName: Kernel32.dll
+
+Searching: FreeSid
+
+        LibName: Advapi32.dll
+
+Searching: fwrite
+
+        LibName: not found
+
+Searching: GetACP
+
+        LibName: Kernel32.dll
+
+Searching: getchar
+
+        LibName: Msftedit.dll
+
+Searching: GetCommandLineA
+
+        LibName: Kernel32.dll
+
+Searching: GetComputerNameW
+
+        LibName: Kernel32.dll
+
+Searching: GetCPInfo
+
+        LibName: Kernel32.dll
+
+Searching: GetCurrentDirectoryA
+
+        LibName: Kernel32.dll
+
+Searching: GetCurrentProcess
+
+        LibName: Kernel32.dll
+
+Searching: GetCurrentThreadId
+
+        LibName: Kernel32.dll
+
+Searching: GetDriveTypeA
+
+        LibName: Kernel32.dll
+
+Searching: GetEnvironmentStrings
+
+        LibName: Kernel32.dll
+
+Searching: GetEnvironmentStringsW
+
+        LibName: Kernel32.dll
+
+Searching: GetExitCodeProcess
+
+        LibName: not found
+
+Searching: GetFileAttributesA
+
+        LibName: Kernel32.dll
+
+Searching: GetFileAttributesW
+
+        LibName: Kernel32.dll
+
+Searching: GetFileSize
+
+        LibName: Kernel32.dll
+
+Searching: GetFileSizeEx
+
+        LibName: Kernel32.dll
+
+Searching: GetFileType
+
+        LibName: Kernel32.dll
+
+Searching: GetFullPathNameA
+
+        LibName: Kernel32.dll
+
+Searching: GetLastError
+
+        LibName: Kernel32.dll
+
+Searching: GetLocalTime
+
+        LibName: not found
+
+Searching: GetLogicalDriveStringsA
+
+        LibName: Kernel32.dll
+
+Searching: GetModuleFileNameA
+
+        LibName: Kernel32.dll
+
+Searching: GetModuleHandleA
+
+        LibName: Kernel32.dll
+
+Searching: GetModuleHandleW
+
+        LibName: Kernel32.dll
+
+Searching: GetOEMCP
+
+        LibName: Kernel32.dll
+
+Searching: GetPriorityClass
+
+        LibName: Kernel32.dll
+
+Searching: GetProcAddress
+
+        LibName: Kernel32.dll
+
+Searching: GetProcessHeap
+
+        LibName: Kernel32.dll
+
+Searching: GetShortPathNameA
+
+        LibName: Kernel32.dll
+
+Searching: GetStartupInfoA
+
+        LibName: not found
+
+Searching: GetStdHandle
+
+        LibName: not found
+
+Searching: GetStringTypeA
+
+        LibName: not found
+
+Searching: GetStringTypeW
+
+        LibName: Kernel32.dll
+
+Searching: GetSystemInfo
+
+        LibName: not found
+
+Searching: GetSystemTime
+
+        LibName: not found
+
+Searching: GetTempPathW
+
+        LibName: Kernel32.dll
+
+Searching: GetTickCount
+
+        LibName: not found
+
+Searching: GetTimeZoneInformation
+
+        LibName: not found
+
+Searching: GetTokenInformation
+
+        LibName: Advapi32.dll
+
+Searching: GetVersion
+
+        LibName: not found
+
+Searching: GetVersionExA
+
+        LibName: Kernel32.dll
+
+Searching: GetWindowsDirectoryA
+
+        LibName: Kernel32.dll
+
+Searching: GetWindowsDirectoryW
+
+        LibName: Kernel32.dll
+
+Searching: GlobalAlloc
+
+        LibName: Kernel32.dll
+
+Searching: GlobalFree
+
+        LibName: Kernel32.dll
+
+Searching: HeapAlloc
+
+        LibName: not found
+
+Searching: HeapCreate
+
+        LibName: Kernel32.dll
+
+Searching: HeapDestroy
+
+        LibName: Kernel32.dll
+
+Searching: HeapFree
+
+        LibName: Kernel32.dll
+
+Searching: HeapReAlloc
+
+        LibName: Kernel32.dll
+
+Searching: HeapSize
+
+        LibName: Kernel32.dll
+
+Searching: InitializeCriticalSection
+
+        LibName: Kernel32.dll
+
+Searching: IsBadCodePtr
+
+        LibName: Kernel32.dll
+
+Searching: IsBadReadPtr
+
+        LibName: Kernel32.dll
+
+Searching: IsBadWritePtr
+
+        LibName: Kernel32.dll
+
+Searching: LCMapStringA
+
+        LibName: Kernel32.dll
+
+Searching: LCMapStringW
+
+        LibName: Kernel32.dll
+
+Searching: LeaveCriticalSection
+
+        LibName: Kernel32.dll
+
+Searching: LoadLibraryA
+
+        LibName: Kernel32.dll
+
+Searching: LoadResource
+
+        LibName: Kernel32.dll
+
+Searching: LocalFileTimeToFileTime
+
+        LibName: Kernel32.dll
+
+Searching: LockResource
+
+        LibName: Kernel32.dll
+
+Searching: LookupPrivilegeValueA
+
+        LibName: Advapi32.dll
+
+Searching: malloc
+
+        LibName: not found
+
+Searching: memcmp
+
+        LibName: not found
+
+Searching: memcpy
+
+        LibName: not found
+
+Searching: memset
+
+        LibName: not found
+
+Searching: MoveFileA
+
+        LibName: Kernel32.dll
+
+Searching: MoveFileExA
+
+        LibName: Kernel32.dll
+
+Searching: MultiByteToWideChar
+
+        LibName: Kernel32.dll
+
+Searching: OpenMutexA
+
+        LibName: Kernel32.dll
+
+Searching: OpenProcess
+
+        LibName: Kernel32.dll
+
+Searching: OpenProcessToken
+
+        LibName: Advapi32.dll
+
+Searching: OpenSCManagerA
+
+        LibName: Advapi32.dll
+
+Searching: OpenServiceA
+
+        LibName: Advapi32.dll
+
+Searching: OpenThread
+
+        LibName: Kernel32.dll
+
+Searching: OutputDebugStringA
+
+        LibName: Kernel32.dll
+
+Searching: Process32FirstW
+
+        LibName: Kernel32.dll
+
+Searching: Process32NextW
+
+        LibName: Kernel32.dll
+
+Searching: QueryPerformanceCounter
+
+        LibName: Kernel32.dll
+
+Searching: QueryPerformanceFrequency
+
+        LibName: Kernel32.dll
+
+Searching: QueryServiceStatus
+
+        LibName: Advapi32.dll
+
+Searching: rand
+
+        LibName: not found
+
+Searching: ReadFile
+
+        LibName: Kernel32.dll
+
+Searching: realloc
+
+        LibName: not found
+
+Searching: RegCloseKey
+
+        LibName: Advapi32.dll
+
+Searching: RegCreateKeyExA
+
+        LibName: Advapi32.dll
+
+Searching: RegCreateKeyW
+
+        LibName: Advapi32.dll
+
+Searching: RegDeleteValueA
+
+        LibName: Advapi32.dll
+
+Searching: RegFlushKey
+
+        LibName: Advapi32.dll
+
+Searching: RegOpenKeyExA
+
+        LibName: Advapi32.dll
+
+Searching: RegQueryValueExA
+
+        LibName: Advapi32.dll
+
+Searching: RegSetValueExA
+
+        LibName: Advapi32.dll
+
+Searching: ResumeThread
+
+        LibName: Kernel32.dll; KernelBase.dll on Windows Phone 8.1
+
+Searching: RtlUnwind
+
+        LibName: Kernel32.dll
+
+Searching: SetConsoleCtrlHandler
+
+        LibName: not found
+
+Searching: SetCurrentDirectoryA
+
+        LibName: Kernel32.dll
+
+Searching: SetCurrentDirectoryW
+
+        LibName: Kernel32.dll
+
+Searching: SetEndOfFile
+
+        LibName: Kernel32.dll
+
+Searching: SetEnvironmentVariableA
+
+        LibName: Kernel32.dll
+
+Searching: SetFileAttributesA
+
+        LibName: Kernel32.dll
+
+Searching: SetFileAttributesW
+
+        LibName: Kernel32.dll
+
+Searching: SetFilePointer
+
+        LibName: Kernel32.dll
+
+Searching: SetFileTime
+
+        LibName: Kernel32.dll
+
+Searching: SetHandleCount
+
+        LibName: kernel32.dll
+
+Searching: SetLastError
+
+        LibName: Kernel32.dll
+
+Searching: SetStdHandle
+
+        LibName: not found
+
+Searching: SetUnhandledExceptionFilter
+
+        LibName: Kernel32.dll
+
+Searching: SizeofResource
+
+        LibName: Kernel32.dll
+
+Searching: Sleep
+
+        LibName: Kernel32.dll; KernelBase.dll on Windows Phone 8.1
+
+Searching: sprintf
+
+        LibName: Shlwapi.dll (version 5.0 or later)
+
+Searching: srand
+
+        LibName: not found
+
+Searching: StartServiceA
+
+        LibName: Advapi32.dll
+
+Searching: strcat
+
+        LibName: Shlwapi.dll (version 4.71 or later)
+
+Searching: strcmp
+
+        LibName: not found
+
+Searching: strcpy
+
+        LibName: Shlwapi.dll (version 4.71 or later)
+
+Searching: strlen
+
+        LibName: not found
+
+Searching: strrchr
+
+        LibName: Shlwapi.dll (version 4.71 or later)
+
+Searching: SuspendThread
+
+        LibName: Kernel32.dll; KernelBase.dll on Windows Phone 8.1
+
+Searching: swprintf
+
+        LibName: not found
+
+Searching: SystemTimeToFileTime
+
+        LibName: Kernel32.dll
+
+Searching: TerminateProcess
+
+        LibName: Kernel32.dll
+
+Searching: Thread32First
+
+        LibName: Kernel32.dll
+
+Searching: Thread32Next
+
+        LibName: Kernel32.dll
+
+Searching: UnhandledExceptionFilter
+
+        LibName: not found
+
+Searching: VirtualAlloc
+
+        LibName: Kernel32.dll
+
+Searching: VirtualAllocEx
+
+        LibName: Kernel32.dll
+
+Searching: VirtualFree
+
+        LibName: Kernel32.dll
+
+Searching: VirtualProtect
+
+        LibName: Kernel32.dll
+
+Searching: WaitForSingleObject
+
+        LibName: Kernel32.dll
+
+Searching: wcscat
+
+        LibName: not found
+
+Searching: wcslen
+
+        LibName: Kernel32.dll
+
+Searching: wcsrchr
+
+        LibName: not found
+
+Searching: WideCharToMultiByte
+
+        LibName: Kernel32.dll
+
+Searching: WriteFile
+
+        LibName: Kernel32.dll
+
+Searching: WriteProcessMemory
+
+        LibName: Kernel32.dll
+
+Searching: wsprintfA
+        LibName: User32.dll

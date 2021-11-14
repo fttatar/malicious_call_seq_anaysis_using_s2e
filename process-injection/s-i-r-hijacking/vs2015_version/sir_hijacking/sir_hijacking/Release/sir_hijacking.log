@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  sir_hijacking.cpp
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sir_hijacking.vcxproj -> E:\github\fttatar-thesis-2020\software\proof-of-concept\process-injection\s-i-r-hijacking\vs2015_version\sir_hijacking\Release\sir_hijacking.exe
+  sir_hijacking.vcxproj -> E:\github\fttatar-thesis-2020\software\proof-of-concept\process-injection\s-i-r-hijacking\vs2015_version\sir_hijacking\Release\sir_hijacking.pdb (Full PDB)

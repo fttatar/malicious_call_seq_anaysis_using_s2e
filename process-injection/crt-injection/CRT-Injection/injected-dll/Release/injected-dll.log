@@ -1,0 +1,8 @@
+﻿  injected-dll.cpp
+injected-dll.obj : warning LNK4006: _DllMain@12 already defined in dllmain.obj; second definition ignored
+E:\github\fttatar-thesis-2020\software\proof-of-concept\process-injection\crt-injection\CRT-Injection\Release\injected-dll.dll : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Generating code
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  injected-dll.vcxproj -> E:\github\fttatar-thesis-2020\software\proof-of-concept\process-injection\crt-injection\CRT-Injection\Release\injected-dll.dll
+  injected-dll.vcxproj -> E:\github\fttatar-thesis-2020\software\proof-of-concept\process-injection\crt-injection\CRT-Injection\Release\injected-dll.pdb (Full PDB)

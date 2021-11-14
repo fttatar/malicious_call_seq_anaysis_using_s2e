@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  CRT-Injection.cpp
+CRT-Injection.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+CRT-Injection.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  All 75 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CRT-Injection.vcxproj -> E:\github\fttatar-thesis-2020\software\proof-of-concept\process-injection\crt-injection\CRT-Injection\x64\Release\CRT-Injection.exe
+  CRT-Injection.vcxproj -> E:\github\fttatar-thesis-2020\software\proof-of-concept\process-injection\crt-injection\CRT-Injection\x64\Release\CRT-Injection.pdb (Full PDB)

@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Release|Win32|E:\github\fttatar-thesis-2020\software\proof-of-concept\process-injection\s-i-r-hijacking\vs2015_version\sir_hijacking\|

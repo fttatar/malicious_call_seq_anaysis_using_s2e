@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  CRT-Injection.cpp
+  Generating code
+  All 71 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CRT-Injection.vcxproj -> E:\github\fttatar-thesis-2020\software\proof-of-concept\process-injection\crt-injection\CRT-Injection\Release\CRT-Injection.exe
+  CRT-Injection.vcxproj -> E:\github\fttatar-thesis-2020\software\proof-of-concept\process-injection\crt-injection\CRT-Injection\Release\CRT-Injection.pdb (Full PDB)

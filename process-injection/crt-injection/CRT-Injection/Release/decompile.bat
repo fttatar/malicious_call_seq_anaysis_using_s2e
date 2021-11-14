@@ -1,0 +1,2 @@
+python E:\github\fttatar-thesis-2020\software\programs\retdec\retdec-v4.0-windows-32b\retdec\bin\retdec-decompiler.py E:\github\fttatar-thesis-2020\software\proof-of-concept\process-injection\crt-injection\CRT-Injection\Release\CRT-Injection.exe
+pause
